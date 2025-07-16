@@ -7,7 +7,7 @@
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/anushkaps/dynamic-event-calendar.git
+   git clone https://github.com/sunnykumar2247/dynamic-event-calendar.git
    ```
 2. Navigate to the project directory:
    ```bash
